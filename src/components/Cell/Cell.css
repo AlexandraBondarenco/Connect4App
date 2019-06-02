@@ -1,0 +1,27 @@
+.cell {
+  height: 50px;
+  width: 50px;
+  margin: 0 10px 10px 0;
+  border-radius: 50%;
+  margin: 5px;
+  box-sizing: border-box;
+  transition: background-color 0.3s;
+  cursor: pointer;
+}
+
+.cell-free {
+  background-color: grey;
+}
+
+.cell-Player1 {
+  background-color: red;
+}
+
+.cell-Player2 {
+  background-color: blue;
+}
+
+.green-glow {
+  border: 2px solid #4dcc7d;
+  box-shadow: 0 0 7px #31b43a;
+}

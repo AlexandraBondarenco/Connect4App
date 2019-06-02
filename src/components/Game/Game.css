@@ -1,0 +1,18 @@
+.game-container {
+  display: flex;
+  justify-content: center;
+}
+
+.player-container {
+  align-self: flex-end;
+  height: 70px;
+  width: 70px;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  font-weight: 800;
+  height: 60px;
+}

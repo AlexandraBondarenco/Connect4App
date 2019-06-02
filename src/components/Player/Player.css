@@ -1,0 +1,14 @@
+.player {
+  width: 70px;
+  height: 70px;
+  background: grey;
+  align-self: flex-end;
+  font-family: "Lucida Sans";
+  color: white;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10%;
+  box-shadow: 0 0 5px #5c547c;
+}
